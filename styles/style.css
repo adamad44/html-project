@@ -313,8 +313,7 @@ body {
     .description2 {
         width: 90vw;
     }
-    .slide {
-    }
+
 }
 
 
@@ -327,16 +326,12 @@ body {
     .description2 {
         width: 95vw;
     }
-    .slideshow-container {
-    }
 }
 
 
 @media (max-width: 767.98px) {
     .description2 {
         width: 90vw;
-    }
-    .slideshow-container {
     }
     .grid1 {
         grid-template-columns: 1fr;
@@ -367,14 +362,10 @@ body {
     .description2 {
         width: 70vw;
     }
-    .slideshow-container {
-    }
 }
 
 
 @media (min-width: 1200px) {
-    .slideshow-container {
-    }
     .description2 {
         width: 50vw;
     }
